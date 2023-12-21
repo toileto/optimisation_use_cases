@@ -1,0 +1,5 @@
+# Python 3.12
+
+ortools == 9.8.*
+pandas == 2.1.4
+prettytable == 3.9.0
